@@ -7,10 +7,12 @@
 
 美国
 
-School	Ranking	AP	Lab Status	Research Fit	Action
-penn state	t1	Minhao Cheng Minhao Cheng - Minhao Cheng	🟢 Explicitly Hiring	fit	待发邮件
-penn state	t1	Jinyuan Jia About me - Jinyuan Jia	🟢 Explicitly Hiring	fit	待发邮件
 
+
+| **School** | **Ranking** | **AP**                                                       | **Lab Status**      | **Research Fit** | **Action** |
+| ---------- | ----------- | ------------------------------------------------------------ | ------------------- | ---------------- | ---------- |
+| penn state | t1          | Minhao Cheng [Minhao Cheng - Minhao Cheng](https://cmhcbb.github.io/) | 🟢 Explicitly Hiring | fit              | 待发邮件   |
+| penn state | t1          | Jinyuan Jia [About me - Jinyuan Jia](https://jinyuan-jia.github.io/) | 🟢 Explicitly Hiring | fit              | 待发邮件   |
 
 
 
@@ -18,6 +20,11 @@ penn state	t1	Jinyuan Jia About me - Jinyuan Jia	🟢 Explicitly Hiring	fit	待�
 Shichao Pei，University of Massachusetts Boston 新ap，远程intern都要
 
 
+Andy Zou， RepE， cmu 新ap
+
+Eugene Bagdasaryan @ UMass Amherst：agent backdoor + prompt injection方向直接相邻，匹配度可能比你目标list里任何一个都高，且学校友好
+
+UCSB Wenbo Guo, UMD Yizheng Chen, Columbia Suman Jana, UIUC Daniel Kang, Duke Neil Gong
 
 • New England (波士顿周边): MIT, Harvard, Northeastern (必看), Boston University, UMass Amherst.
 • Mid-Atlantic (纽约/宾州/DC): CMU, Penn State, UMD, Princeton, UPenn, Rutgers, NYU, Columbia, UVA
